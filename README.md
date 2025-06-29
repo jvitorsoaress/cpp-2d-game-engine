@@ -1,6 +1,6 @@
-# Flux2D – C++ Game Engine
+# 2d – C++ Game Engine
 
-Flux2D is a lightweight 2D game engine written in modern C++. It provides a modular foundation for building simple 2D games or prototypes, focusing on performance and clarity.
+Lightweight 2D game engine written in modern C++. It provides a modular foundation for building simple 2D games or prototypes, focusing on performance and clarity.
 
 ## Features
 - Game loop management
@@ -20,12 +20,12 @@ Flux2D is a lightweight 2D game engine written in modern C++. It provides a modu
 ## Build Instructions
 
 ```bash
-git clone https://github.com/youruser/cpp-Flux2d-game-engine.git
-cd cpp-Flux2d-game-engine
+git clone https://github.com/youruser/cpp-2d-game-engine.git
+cd cpp-2d-game-engine
 mkdir build && cd build
 cmake ..
 make
-./Flux2D
+./2DEngine
 ```
 
 ## License
